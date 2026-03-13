@@ -13,8 +13,7 @@ Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Prak
 3. Jika tidak mengikuti praktikum, maka diharapkan izin kepada asprak
 4. Selama praktikum diperbolehkan makan dan minum (asalkan bau tidak menyengat)
 5. Selama perkuliahan akan terdapat foto untuk dijadikan bukti praktikum
-6. Kehadiran wajib minimal 75% dari total pertemuan
-7. Wajib menjaga ketertiban dan kondusivitas selama praktikum berlangsung
+6. Wajib menjaga ketertiban dan kondusivitas selama praktikum berlangsung
 
 ---
 
@@ -34,3 +33,6 @@ Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Prak
 Keaktifan digunakan sebagai nilai tambahan pada tugas project
 
 ---
+
+## Tools
+- Python
