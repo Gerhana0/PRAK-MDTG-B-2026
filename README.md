@@ -1,4 +1,4 @@
-# Prak-MatDis-B-2026
+# Prak-MDTG-B-2026
 Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Praktikum Matematika Diskrit dan Teori Graph Kelas B Program Studi Sains Data Tahun 2026.
 
 ## Asisten Praktikum
