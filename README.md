@@ -1,4 +1,5 @@
 # Prak-MDTG-B-2026
+
 Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Praktikum Matematika Diskrit dan Teori Graph Kelas B Program Studi Sains Data Tahun 2026.
 
 ## Asisten Praktikum
@@ -27,12 +28,13 @@ Repositori ini berisi kumpulan materi, tugas, dan implementasi program dari Prak
 
 ## Penilaian Praktikum
 
-30% Nilai Tugas <br>
-60% Nilai Tugas Project <br>
+35% Nilai Tugas <br>
+55% Nilai Tugas Project <br>
 10% Nilai Kehadiran <br>
 Keaktifan digunakan sebagai nilai tambahan pada tugas project
 
 ---
 
 ## Tools
+
 - Python
